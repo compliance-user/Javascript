@@ -1,0 +1,1 @@
+alert('Hello'); // pop up alerts
